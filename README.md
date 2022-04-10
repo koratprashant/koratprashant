@@ -2,13 +2,10 @@
 koratprashant/koratprashant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Hi 👋🏻 I am Prashant Korat ( 📱 Sr. Software Engineer)
-
-## Reachable: 
-  * _Email_: korat_prashant@yahoo.in
-  * _Skype_: iphone.prashant
-
+<h1 align="center">Hi 👋🏻 I am Prashant Korat</h1>
+<h3 align="center">📱 Sr. Software Engineer </h3>
+<h4 align="right"> Email: korat_prashant@yahoo.in </h4>
+<h4 align="right"> Skype: iphone.prashant </h4>
 
 ## Professional Summary
 
